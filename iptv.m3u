@@ -119,6 +119,64 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
+#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
+http://192.168.100.1:10000/udp/233.50.201.137:5140
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
+http://192.168.100.1:10000/udp/233.50.201.138:5140
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="浙江频道",浙江教科
+http://192.168.100.1:10000/udp/233.50.201.134:5140
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江纪录.png" group-title="浙江频道",之江纪录
+http://192.168.100.1:10000/udp/233.50.202.25:5140
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生
+http://192.168.100.1:10000/udp/233.50.201.136:5140
+#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江频道",浙江经济
+http://192.168.100.1:10000/udp/233.50.201.133:5140
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江
+http://192.168.100.1:10000/udp/233.50.201.132:5140
+#EXTINF:-1 tvg-name="杭州1综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州1综合
+http://192.168.100.1:10000/udp/233.50.201.173:5140
+#EXTINF:-1 tvg-name="杭州2明珠" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州2明珠
+http://192.168.100.1:10000/udp/233.50.201.174:5140
+#EXTINF:-1 tvg-name="杭州3生活" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州3生活
+http://192.168.100.1:10000/udp/233.50.201.175:5140
+#EXTINF:-1 tvg-name="杭州4影视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州4影视
+http://192.168.100.1:10000/udp/233.50.201.176:5140
+#EXTINF:-1 tvg-name="杭州5青少" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州5青少
+http://192.168.100.1:10000/udp/233.50.201.177:5140
+#EXTINF:-1 tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
+http://192.168.100.1:10000/rtp/233.50.201.182:5140
+#EXTINF:-1 tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV1
+http://192.168.100.1:10000/udp/233.50.201.168:5140 
+#EXTINF:-1 tvg-name="宁波TV2" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV2
+http://192.168.100.1:10000/udp/233.50.201.178:5140 
+#EXTINF:-1 tvg-name="宁波TV3" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV3
+http://192.168.100.1:10000/udp/233.50.201.179:5140 
+#EXTINF:-1 tvg-name="宁波TV4" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV4
+http://192.168.100.1:10000/udp/233.50.201.180:5140 
+#EXTINF:-1 tvg-name="温州新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",温州新闻
+http://192.168.100.1:10000/udp/233.50.201.87:5140 
+#EXTINF:-1 tvg-name="绍兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",绍兴新闻
+http://192.168.100.1:10000/udp/233.50.201.156:5140 
+#EXTINF:-1 tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
+http://192.168.100.1:10000/udp/233.50.201.182:5140
+#EXTINF:-1 tvg-name="某地新闻综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",某地新闻综合
+http://192.168.100.1:10000/udp/233.50.202.11:5140
+#EXTINF:-1 tvg-name="某地公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",某地公共
+http://192.168.100.1:10000/udp/233.50.202.12:5140
+#EXTINF:-1 tvg-name="金华新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",金华新闻
+http://192.168.100.1:10000/udp/233.50.201.161:5140 
+#EXTINF:-1 tvg-name="丽水新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",丽水新闻
+http://192.168.100.1:10000/udp/233.50.201.162:5140 
+#EXTINF:-1 tvg-name="嘉兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",嘉兴新闻
+http://192.168.100.1:10000/udp/233.50.201.163:5140 
+#EXTINF:-1 tvg-name="桐乡新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",桐乡新闻
+http://192.168.100.1:10000/udp/233.50.201.169:5140
+#EXTINF:-1 tvg-name="余杭新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",余杭新闻
+http://192.168.100.1:10000/rtp/233.50.201.159:5140
+
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
@@ -225,22 +283,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="浙江频道",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江纪录.png" group-title="浙江频道",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江频道",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
 #EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="内蒙频道",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="内蒙频道",内蒙经济
