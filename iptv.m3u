@@ -147,7 +147,7 @@ http://192.168.100.1:10000/udp/233.50.201.176:5140
 #EXTINF:-1 tvg-name="杭州5青少" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州5青少
 http://192.168.100.1:10000/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
-http://192.168.100.1:10000/rtp/233.50.201.182:5140
+http://192.168.100.1:10000/udp/233.50.201.182:5140
 #EXTINF:-1 tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV1
 http://192.168.100.1:10000/udp/233.50.201.168:5140 
 #EXTINF:-1 tvg-name="宁波TV2" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",宁波TV2
@@ -175,7 +175,7 @@ http://192.168.100.1:10000/udp/233.50.201.163:5140
 #EXTINF:-1 tvg-name="桐乡新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",桐乡新闻
 http://192.168.100.1:10000/udp/233.50.201.169:5140
 #EXTINF:-1 tvg-name="余杭新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",余杭新闻
-http://192.168.100.1:10000/rtp/233.50.201.159:5140
+http://192.168.100.1:10000/udp/233.50.201.159:5140
 
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
